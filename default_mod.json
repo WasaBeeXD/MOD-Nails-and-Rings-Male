@@ -1,0 +1,265 @@
+{
+  "Files": {
+    "chara/equipment/e6064/material/v0001/mt_c0101e6064_glv_a.mtrl": "items\\chara\\equipment\\e6064\\material\\v0001\\mt_c0101e6064_glv_a.mtrl",
+    "chara/equipment/e6064/model/c0101e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c0101e6064_glv.mdl",
+    "chara/equipment/e6064/model/c0201e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c0201e6064_glv.mdl",
+    "chara/equipment/e6064/model/c0901e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c0901e6064_glv.mdl",
+    "chara/equipment/e6064/model/c1101e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c1101e6064_glv.mdl",
+    "chara/equipment/e6064/texture/v01_c0101e6064_glv_id.tex": "items\\chara\\equipment\\e6064\\texture\\v01_c0101e6064_glv_id.tex",
+    "chara/equipment/e6064/texture/v01_c0101e6064_glv_m.tex": "items\\chara\\equipment\\e6064\\texture\\v01_c0101e6064_glv_m.tex",
+    "chara/equipment/e6064/texture/v01_c0101e6064_glv_n.tex": "items\\chara\\equipment\\e6064\\texture\\v01_c0101e6064_glv_n.tex"
+  },
+  "FileSwaps": {},
+  "Manipulations": [
+    {
+      "Type": "Eqp",
+      "Manipulation": {
+        "Entry": 1929379840,
+        "SetId": 6064,
+        "Slot": "Hands"
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 48,
+        "Gender": "Male",
+        "Race": "Midlander",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 3
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 32,
+        "Gender": "Female",
+        "Race": "Midlander",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 2
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Male",
+        "Race": "Highlander",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "Highlander",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Male",
+        "Race": "Elezen",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "Elezen",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Male",
+        "Race": "Miqote",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "Miqote",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 32,
+        "Gender": "Male",
+        "Race": "Roegadyn",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 2
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "Roegadyn",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 32,
+        "Gender": "Male",
+        "Race": "Lalafell",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 2
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "Lalafell",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Male",
+        "Race": "AuRa",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "AuRa",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Male",
+        "Race": "Hrothgar",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "Hrothgar",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Male",
+        "Race": "Viera",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Eqdp",
+      "Manipulation": {
+        "Entry": 0,
+        "Gender": "Female",
+        "Race": "Viera",
+        "SetId": 6064,
+        "Slot": "Hands",
+        "ShiftedEntry": 0
+      }
+    },
+    {
+      "Type": "Imc",
+      "Manipulation": {
+        "Entry": {
+          "MaterialId": 1,
+          "DecalId": 0,
+          "VfxId": 0,
+          "MaterialAnimationId": 0,
+          "AttributeAndSound": 1023,
+          "AttributeMask": 1023,
+          "SoundId": 0
+        },
+        "PrimaryId": 6064,
+        "SecondaryId": 0,
+        "Variant": 0,
+        "ObjectType": "Equipment",
+        "EquipSlot": "Hands",
+        "BodySlot": "Unknown"
+      }
+    },
+    {
+      "Type": "Imc",
+      "Manipulation": {
+        "Entry": {
+          "MaterialId": 1,
+          "DecalId": 0,
+          "VfxId": 0,
+          "MaterialAnimationId": 0,
+          "AttributeAndSound": 1023,
+          "AttributeMask": 1023,
+          "SoundId": 0
+        },
+        "PrimaryId": 6064,
+        "SecondaryId": 0,
+        "Variant": 1,
+        "ObjectType": "Equipment",
+        "EquipSlot": "Hands",
+        "BodySlot": "Unknown"
+      }
+    }
+  ],
+  "Priority": 0,
+  "Name": "False Nails",
+  "Description": null,
+  "Image": ""
+}
