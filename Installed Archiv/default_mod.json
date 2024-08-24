@@ -2,9 +2,6 @@
   "Files": {
     "chara/equipment/e6064/material/v0001/mt_c0101e6064_glv_a.mtrl": "items\\chara\\equipment\\e6064\\material\\v0001\\mt_c0101e6064_glv_a.mtrl",
     "chara/equipment/e6064/model/c0101e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c0101e6064_glv.mdl",
-    "chara/equipment/e6064/model/c0201e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c0201e6064_glv.mdl",
-    "chara/equipment/e6064/model/c0901e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c0901e6064_glv.mdl",
-    "chara/equipment/e6064/model/c1101e6064_glv.mdl": "items\\chara\\equipment\\e6064\\model\\c1101e6064_glv.mdl",
     "chara/equipment/e6064/texture/v01_c0101e6064_glv_id.tex": "items\\chara\\equipment\\e6064\\texture\\v01_c0101e6064_glv_id.tex",
     "chara/equipment/e6064/texture/v01_c0101e6064_glv_m.tex": "items\\chara\\equipment\\e6064\\texture\\v01_c0101e6064_glv_m.tex",
     "chara/equipment/e6064/texture/v01_c0101e6064_glv_n.tex": "items\\chara\\equipment\\e6064\\texture\\v01_c0101e6064_glv_n.tex"
