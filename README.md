@@ -5,3 +5,6 @@ This is a mod for Male Midlander. A chain on the wrist, a simple ring on each fi
 Additionally since 24.08.2024 a party bracelet also on the left arm.
 
 12K Triangles
+
+V.1.0.0 (Nails and Rings Mod)
+V.1.0.1 (Add Left Hand Band)
