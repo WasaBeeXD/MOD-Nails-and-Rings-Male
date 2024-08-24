@@ -11,3 +11,5 @@ V.1.0.1 (Add Left Hand Band)
 
 This mod is freely accessible and may be modified for private purposes. Re-uploading or selling this software is not permitted. Copyrights belong to Wasa Bee.
 Have fun with this mod.
+
+https://ko-fi.com/s/dc2d46cc39
