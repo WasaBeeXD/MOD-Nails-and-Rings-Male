@@ -8,3 +8,6 @@ Additionally since 24.08.2024 a party bracelet also on the left arm.
 
 V.1.0.0 (Nails and Rings Mod)
 V.1.0.1 (Add Left Hand Band)
+
+This mod is freely accessible and may be modified for private purposes. Re-uploading or selling this software is not permitted. Copyrights belong to Wasa Bee.
+Have fun with this mod.
